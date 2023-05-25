@@ -1,6 +1,6 @@
 # VPNflix
 <div style="display: flex; justify-content: center;">
-    <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" style="margin-right: 20px;" width="120" />
+    <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" style="margin-right: 20px;" width="30" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1280px-Netflix_2015_logo.svg.png" style="margin-right: 20px;" width="150" />
     <img src="https://www.wireguard.com/img/wireguard.svg" style="margin-right: 20px;" width="150" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/OpenVPN_logo.svg" style="margin-right: 20px;" width="150" />
